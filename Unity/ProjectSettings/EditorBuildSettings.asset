@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ColorTest.unity
+    guid: 7c9df5d209429dc458362c628076a973
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 8a4f927097daa4644a210a1d53989aa8, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 0d763875b8a4dc44db0566cdb9b258c4, type: 2}
